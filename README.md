@@ -42,7 +42,7 @@ In progress!
 ```bash
 git clone git@github.com:taniarascia/takenote
 cd takenote
-npm i
+npm ci # using ci option so package.lock isn't updated each time
 ```
 
 ### Run
@@ -121,6 +121,7 @@ Thanks goes to these wonderful people:
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## Acknowledgements
